@@ -20,5 +20,5 @@
 
 **My Best Repo**
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=efemertcbgll&repo=noibot&show_owner=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=efemertcbgll&repo=Basit-Programlar-Python&show_owner=true&theme=dark">
  
