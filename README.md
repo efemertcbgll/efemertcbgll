@@ -6,7 +6,7 @@
 - <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" /> [Instagram](https://instagram.com/efemertcbgl)
 - <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/gmail.svg" /> [Mail to me!](mailto:efe_mert_cabaoglu@hotmail.com)
 - <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" /> [Twitter](https://twitter.com/efemertcbgl)
-- <img height="32" width="32" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> [My Website!](https://efemertcbgl.ga)
+- <img height="32" width="32" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> [My Website!](https://efemertcbgl.tk)
 
 # My Github Stats
 
